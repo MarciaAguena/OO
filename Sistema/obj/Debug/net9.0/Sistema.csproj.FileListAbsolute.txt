@@ -1,0 +1,14 @@
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/bin/Debug/net9.0/Sistema
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/bin/Debug/net9.0/Sistema.deps.json
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/bin/Debug/net9.0/Sistema.runtimeconfig.json
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/bin/Debug/net9.0/Sistema.dll
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/bin/Debug/net9.0/Sistema.pdb
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/obj/Debug/net9.0/Sistema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/obj/Debug/net9.0/Sistema.AssemblyInfoInputs.cache
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/obj/Debug/net9.0/Sistema.AssemblyInfo.cs
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/obj/Debug/net9.0/Sistema.csproj.CoreCompileInputs.cache
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/obj/Debug/net9.0/Sistema.dll
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/obj/Debug/net9.0/refint/Sistema.dll
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/obj/Debug/net9.0/Sistema.pdb
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/obj/Debug/net9.0/Sistema.genruntimeconfig.cache
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/Sistema/obj/Debug/net9.0/ref/Sistema.dll
