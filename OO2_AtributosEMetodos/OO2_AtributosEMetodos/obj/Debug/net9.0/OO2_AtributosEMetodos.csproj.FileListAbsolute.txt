@@ -1,0 +1,15 @@
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/bin/Debug/net9.0/OO2_AtributosEMetodos
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/bin/Debug/net9.0/OO2_AtributosEMetodos.deps.json
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/bin/Debug/net9.0/OO2_AtributosEMetodos.runtimeconfig.json
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/bin/Debug/net9.0/OO2_AtributosEMetodos.dll
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/bin/Debug/net9.0/OO2_AtributosEMetodos.pdb
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/obj/Debug/net9.0/OO2_AtributosEMetodos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/obj/Debug/net9.0/OO2_AtributosEMetodos.AssemblyInfoInputs.cache
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/obj/Debug/net9.0/OO2_AtributosEMetodos.AssemblyInfo.cs
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/obj/Debug/net9.0/OO2_AtributosEMetodos.csproj.CoreCompileInputs.cache
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/obj/Debug/net9.0/OO2_AtributosEMetodos.sourcelink.json
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/obj/Debug/net9.0/OO2_AtributosEMetodos.dll
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/obj/Debug/net9.0/refint/OO2_AtributosEMetodos.dll
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/obj/Debug/net9.0/OO2_AtributosEMetodos.pdb
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/obj/Debug/net9.0/OO2_AtributosEMetodos.genruntimeconfig.cache
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO2_AtributosEMetodos/OO2_AtributosEMetodos/obj/Debug/net9.0/ref/OO2_AtributosEMetodos.dll

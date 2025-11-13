@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+Source.PessoaAtributo.TestaPessoa.Main();
+Source.PessoaMetodo.TestaPessoa.Main();
+Source.PessoaPropriedade.TestaPessoa.Main();
+Source.Relogio.TestaRelogio.Main();
