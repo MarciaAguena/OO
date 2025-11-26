@@ -1,0 +1,15 @@
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/bin/Debug/net9.0/OO3_Encapsulamento
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/bin/Debug/net9.0/OO3_Encapsulamento.deps.json
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/bin/Debug/net9.0/OO3_Encapsulamento.runtimeconfig.json
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/bin/Debug/net9.0/OO3_Encapsulamento.dll
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/bin/Debug/net9.0/OO3_Encapsulamento.pdb
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/obj/Debug/net9.0/OO3_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/obj/Debug/net9.0/OO3_Encapsulamento.AssemblyInfoInputs.cache
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/obj/Debug/net9.0/OO3_Encapsulamento.AssemblyInfo.cs
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/obj/Debug/net9.0/OO3_Encapsulamento.csproj.CoreCompileInputs.cache
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/obj/Debug/net9.0/OO3_Encapsulamento.sourcelink.json
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/obj/Debug/net9.0/OO3_Encapsulamento.dll
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/obj/Debug/net9.0/refint/OO3_Encapsulamento.dll
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/obj/Debug/net9.0/OO3_Encapsulamento.pdb
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/obj/Debug/net9.0/OO3_Encapsulamento.genruntimeconfig.cache
+/Users/marciaaguena/Library/Mobile Documents/com~apple~CloudDocs/Curso C#/OO/OO3_Encapsulamento/obj/Debug/net9.0/ref/OO3_Encapsulamento.dll

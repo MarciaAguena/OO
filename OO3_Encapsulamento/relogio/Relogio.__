@@ -1,0 +1,101 @@
+using System;
+
+namespace OO3_Encapsulamento.relogio
+{
+    public class Relogio
+    {
+        // Campos privados (encapsulados)
+        int _hora = 0; 
+        int _minuto = 0;
+        int _segundo = 0;
+
+        // Propriedades públicas com encapsulamento
+        int Hora
+        {
+            get { return _hora; }
+            set 
+            { 
+                _hora = value % 24;
+                if (_hora < 0) _hora += 24;
+            }
+        }
+
+        int Minuto
+        {
+            get { return _minuto; }
+            set 
+            { 
+                _minuto = value % 60;
+                if (_minuto < 0) _minuto += 60;
+            }
+        }
+
+        int Segundo
+        {
+            get { return _segundo; }
+            set 
+            { 
+                _segundo = value % 60;
+                if (_segundo < 0) _segundo += 60;
+            }
+        }
+
+        // Método para adiantar o relógio
+        void Adiantar(int hora, int minuto, int segundo)
+        {
+            // Adiciona segundos e ajusta overflow
+            _segundo += segundo;
+            if (_segundo >= 60 || _segundo < 0)
+            {
+                int minutosExtras = _segundo / 60;
+                _segundo %= 60;
+                if (_segundo < 0)
+                {
+                    _segundo += 60;
+                    minutosExtras--;
+                }
+                _minuto += minutosExtras;
+            }
+
+            // Adiciona minutos e ajusta overflow
+            _minuto += minuto;
+            if (_minuto >= 60 || _minuto < 0)
+            {
+                int horasExtras = _minuto / 60;
+                _minuto %= 60;
+                if (_minuto < 0)
+                {
+                    _minuto += 60;
+                    horasExtras--;
+                }
+                _hora += horasExtras;
+            }
+
+            // Adiciona horas e ajusta overflow
+            _hora += hora;
+            if (_hora >= 24 || _hora < 0)
+            {
+                _hora %= 24;
+                if (_hora < 0) _hora += 24;
+            }
+        }
+
+        // Método para atrasar o relógio (adicional)
+        void Atrasar(int hora, int minuto, int segundo)
+        {
+            Adiantar(-hora, -minuto, -segundo);
+        }
+
+        // Sobrescrita do método ToString
+        string ToString()
+        {
+            return $"Relogio {{hora={Hora}, minuto={Minuto}, segundo={Segundo}}}";
+        }
+
+        // Método adicional para formato de hora mais legível
+        string FormatarHora()
+        {
+            return $"{Hora:D2}:{Minuto:D2}:{Segundo:D2}";
+        }
+    }
+}

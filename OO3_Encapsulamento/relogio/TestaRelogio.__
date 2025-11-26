@@ -1,0 +1,41 @@
+using System;
+
+namespace OO3_Encapsulamento.relogio
+{
+    public class TestaRelogio
+    {
+        public static void main()
+        {
+            Relogio relogio = new Relogio();
+            
+            Console.WriteLine("Hora inicial: " + relogio.FormatarHora());
+            Console.WriteLine("ToString(): " + relogio.ToString());
+            
+            // Teste 1
+            relogio.Adiantar(13, 40, 50);
+            Console.WriteLine("\nApós adiantar 13h40m50s:");
+            Console.WriteLine(relogio.Hora + ":" + relogio.Minuto + ":" + relogio.Segundo);
+            Console.WriteLine("Formatado: " + relogio.FormatarHora());
+            
+            // Teste 2
+            relogio.Adiantar(13, 40, 50);
+            Console.WriteLine("\nApós adiantar mais 13h40m50s:");
+            Console.WriteLine(relogio.Hora + ":" + relogio.Minuto + ":" + relogio.Segundo);
+            Console.WriteLine("Formatado: " + relogio.FormatarHora());
+            
+            // Teste 3 - Overflow
+            Console.WriteLine("\n--- Teste de Overflow ---");
+            Relogio relogio2 = new Relogio();
+            relogio2.Adiantar(0, 0, 3665); // 1 hora, 1 minuto e 5 segundos
+            Console.WriteLine("3665 segundos = " + relogio2.FormatarHora());
+            
+            // Teste 4 - Atrasar
+            Console.WriteLine("\n--- Teste de Atraso ---");
+            Relogio relogio3 = new Relogio();
+            relogio3.Adiantar(15, 30, 0);
+            Console.WriteLine("Hora inicial: " + relogio3.FormatarHora());
+            relogio3.Atrasar(2, 45, 0);
+            Console.WriteLine("Após atrasar 2h45m: " + relogio3.FormatarHora());
+        }
+    }
+}
